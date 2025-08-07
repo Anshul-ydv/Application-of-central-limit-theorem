@@ -1,4 +1,4 @@
-# 📊 Application of Central Limit Theorem
+#  Application of Central Limit Theorem
 
 This project explores the **Central Limit Theorem (CLT)** using simulations in **R**. We analyze two cases:
 
@@ -7,7 +7,7 @@ This project explores the **Central Limit Theorem (CLT)** using simulations in *
 
 ---
 
-## 📁 Files Included
+##  Files Included
 
 * `coin_toss.csv` – Binary coin toss outcomes (0 for tails, 1 for heads).
 * `iplbd.csv` – IPL players' birthdays converted to day numbers (1=Sun, 7=Sat).
@@ -15,7 +15,7 @@ This project explores the **Central Limit Theorem (CLT)** using simulations in *
 
 ---
 
-## 🧠 Objective
+##  Objective
 
 To apply and demonstrate the Central Limit Theorem by:
 
@@ -26,7 +26,7 @@ To apply and demonstrate the Central Limit Theorem by:
 
 ---
 
-## 📈 Simulations Overview
+##  Simulations Overview
 
 ### 1️⃣ Coin Toss Experiments
 
@@ -46,7 +46,7 @@ Simulated birthdays across the week using:
 
 ---
 
-## 🛠️ How to Run in R
+##  How to Run in R
 
 Example code: (Full working code is available in report)
 
@@ -68,7 +68,7 @@ hist(sample_sums, main="Histogram of Sample Sums", xlab="Sum of 30 Tosses")
 
 ---
 
-## 📚 Theory Snapshot
+##  Theory Snapshot
 
 The **Central Limit Theorem** states that, for a sufficiently large sample size, the distribution of sample means will approximate a **normal distribution** regardless of the original population distribution.
 
@@ -87,7 +87,7 @@ Where:
 
 ---
 
-## 🧾 Report Summary
+##  Report Summary
 
 The final report includes:
 
